@@ -1,7 +1,5 @@
 # Botorch-Based Bayesian Optimization for Materials Science
 
-**Created by:** Benediktus Madika, PhD.
-
 An implementation repository for **Botorch-Based Bayesian Optimization for Materials Science**, built using the official **[BoTorch API](https://botorch.org)** and inspired by Quan Nguyen's book ***[Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action)***. Code construction, documentation, and explanations were accelerated using **GPT** and human-validated.
 
 ### 🔬 Core Case Study: Self-Driving Laboratories for Battery Electrolyte Optimization
