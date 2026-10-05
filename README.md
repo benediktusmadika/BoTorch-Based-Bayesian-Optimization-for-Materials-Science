@@ -14,3 +14,8 @@ This specific implementation focuses on **autonomous closed-loop discovery (Self
 * • **BoTorch Framework:** [Official BoTorch Website](https://botorch.org)
 * • **The Book (*Bayesian Optimization in Action*):** [Manning Publication Page](https://www.manning.com/books/bayesian-optimization-in-action) | [Official Book Code Repository](https://github.com/KrisNguyen135/bayesian-optimization-in-action)
 
+---
+
+## 👤 Author Profile
+
+**Benediktus Madika, PhD** obtained his Bachelor's degree in Metallurgical and Materials Engineering from Universitas Indonesia in 2021. He then pursued an integrated Master-PhD program at the Korea Advanced Institute of Science and Technology (KAIST), earning his PhD in Materials Science and Engineering in 2026. His research focuses on machine learning applications for materials property and performance prediction and optimization, including Bayesian optimization, LLMs, and data imputation.
