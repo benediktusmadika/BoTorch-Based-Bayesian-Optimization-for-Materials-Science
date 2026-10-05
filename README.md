@@ -13,6 +13,7 @@ This specific implementation focuses on **autonomous closed-loop discovery (Self
 
 * • **BoTorch Framework:** [Official BoTorch Website](https://botorch.org)
 * • **The Book (*Bayesian Optimization in Action*):** [Manning Publication Page](https://www.manning.com/books/bayesian-optimization-in-action) | [Official Book Code Repository](https://github.com/KrisNguyen135/bayesian-optimization-in-action)
+* **Learning Materials (https://github.com/benediktusmadika/Botorch-Based-Bayesian-Optimization-for-Materials-Science), Lesson_1, Lesson_2, ...
 
 ---
 
