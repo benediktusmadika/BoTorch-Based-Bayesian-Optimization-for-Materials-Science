@@ -5,7 +5,7 @@ An implementation repository for **BoTorch-Based Bayesian Optimization for Mater
 ### 🔬 Core Case Study: Self-Driving Laboratories for Battery Electrolyte Optimization
 This specific implementation focuses on **autonomous closed-loop discovery (Self-Driving Labs)** to optimize **battery electrolyte formulations**. The framework automates the cycle of formulating electrolyte compositions, evaluating physical/electrochemical properties, and utilizing Gaussian Process surrogates to suggest the next high-performance candidate.
 
-| Lesson | Topic / Title | Link |
+| Lesson | Topic | Link |
 | :--- | :--- | :--- |
 | **Lesson 1** | Bayesian optimization with BoTorch: a first walkthrough | [Open Notebook](https://github.com/benediktusmadika/BoTorch-Based-Bayesian-Optimization-for-Materials-Science/blob/main/Lesson_1.ipynb) |
 | **Lesson 2** | BoTorch data and scaling for a self-driving lab | [Open Notebook](https://github.com/benediktusmadika/BoTorch-Based-Bayesian-Optimization-for-Materials-Science/blob/main/Lesson_2.ipynb) |
