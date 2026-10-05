@@ -1,6 +1,6 @@
 # Botorch-Based Bayesian Optimization for Materials Science
 
-An implementation repository for **Botorch-Based Bayesian Optimization for Materials Science**, built using the official **[BoTorch API](https://botorch.org)** and inspired by Quan Nguyen's book ***[Bayesian Optimization in Action](https://www.manning.com/books/bayesian-optimization-in-action)***. Code construction, documentation, and explanations were accelerated using **GPT** and human-validated.
+An implementation repository for BoTorch-Based Bayesian Optimization for Materials Science, built using the official BoTorch API and inspired by Quan Nguyen's Bayesian Optimization in Action. Code construction, documentation, and technical explanations were assisted by LLMs (GPT) and human-verified.
 
 ### 🔬 Core Case Study: Self-Driving Laboratories for Battery Electrolyte Optimization
 This specific implementation focuses on **autonomous closed-loop discovery (Self-Driving Labs)** to optimize **battery electrolyte formulations**. The framework automates the cycle of formulating electrolyte compositions, evaluating physical/electrochemical properties, and utilizing Gaussian Process surrogates to suggest the next high-performance candidate.
