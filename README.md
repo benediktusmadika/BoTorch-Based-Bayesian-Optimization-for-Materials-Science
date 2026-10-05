@@ -6,6 +6,12 @@ An implementation repository for **Botorch-Based Bayesian Optimization for Mater
 This specific implementation focuses on **autonomous closed-loop discovery (Self-Driving Labs)** to optimize **battery electrolyte formulations**. The framework automates the cycle of formulating electrolyte compositions, evaluating physical/electrochemical properties, and utilizing Gaussian Process surrogates to suggest the next high-performance candidate.
 
 ---
+| Lesson | Topic / Title | Link |
+| :--- | :--- | :--- |
+| **Lesson 1** | Bayesian optimization with BoTorch: a first walkthrough | [Open Notebook](https://github.com/benediktusmadika/BoTorch-Based-Bayesian-Optimization-for-Materials-Science/blob/main/Lesson_1.ipynb) |
+| **Lesson 2** | BoTorch data and scaling for a self-driving lab | [Open Notebook](https://github.com/benediktusmadika/BoTorch-Based-Bayesian-Optimization-for-Materials-Science/blob/main/Lesson_2.ipynb) |
+| **Lesson 3** | SingleTaskGP Internals: Kernel, Lengthscale, ARD, Noise, Likelihood, and Learned Parameters | [Open Notebook](https://github.com/benediktusmadika/BoTorch-Based-Bayesian-Optimization-for-Materials-Science/blob/main/Lesson_3.ipynb) |
+| **Lesson 4** | Kernels and Covariance: the mathematical engine inside a GP | [Open Notebook](https://github.com/benediktusmadika/BoTorch-Based-Bayesian-Optimization-for-Materials-Science/blob/main/Lesson_4.ipynb) |
 
 ## 🔗 Quick Links
 
